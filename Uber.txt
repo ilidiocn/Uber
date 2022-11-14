@@ -1,0 +1,11 @@
+expo init Uber
+blank
+code . (to pop up in a separete window)
+
+Set up redux: # NPM
+npm install @reduxjs/toolkit; npm install react-redux
+create store 
+create navSlice (name,initialState, reducer(setActions), selectors/gets )
+
+Set up tailwind
+npm install twrnc
